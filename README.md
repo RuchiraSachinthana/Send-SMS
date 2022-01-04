@@ -1,5 +1,5 @@
 # Send-SMS
- Send SMS with PHP with Vonage API
+ Send SMS with PHP using Vonage API
  
  
  Link - https://github.com/Nexmo/nexmo-php
